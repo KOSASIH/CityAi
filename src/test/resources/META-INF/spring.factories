@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory=\
+com.kosasih.cityai.config.KafkaTestContainersSpringContextCustomizerFactory,\
+com.kosasih.cityai.config.SqlTestContainersSpringContextCustomizerFactory,\
+com.kosasih.cityai.config.TestContainersSpringContextCustomizerFactory
