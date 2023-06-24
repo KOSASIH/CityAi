@@ -121,7 +121,7 @@ For more information about the project and its contributors, visit the [official
 To stay updated with the latest news and announcements regarding the CityAI Microservice Project, you can:
 
 - Follow us on Twitter: [@cityai_micro](https://twitter.com/cityai_micro)
-- Join our community on Discord: [CityAI Community](https://discord.gg/cityai)
+- Join our community on Discord: [CityAI Comunity](https://discord.gg/Tgpabg4m)
 - Visit our blog: [CityAI Blog](https://cityai-microservices.com/blog)
 
 We encourage you to engage with the community, share your feedback, and contribute to the project's growth and success.
